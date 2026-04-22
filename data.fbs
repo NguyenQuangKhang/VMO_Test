@@ -1,0 +1,8 @@
+namespace HybridApp.FlatBuffers;
+
+table DataPacket {
+  title:string;
+  data:[double];
+}
+
+root_type DataPacket;

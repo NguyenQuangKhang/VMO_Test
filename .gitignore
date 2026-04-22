@@ -1,0 +1,6 @@
+HybridApp.Core/obj/
+HybridApp.Core/bin/
+HybridApp.Web/.angular/
+HybridApp.Web/node_modules/
+HybridApp.Wpf/bin/
+HybridApp.Wpf/obj/
